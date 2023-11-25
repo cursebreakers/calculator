@@ -1,1 +1,4 @@
-// JavaScript Calculator Engine, version 0.1, July 2023
+// JavaScript Calculator, version 1.1, November 2023
+Lesson provided by The Odin Project.
+
+
